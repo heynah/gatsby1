@@ -1,0 +1,4 @@
+siteTitle=" Hannna Breaks Gatsby"
+# linkPrefix = "/gatsby-starter-default"
+# linkPrefix = '/your-project'
+linkPrefix = "/gatsby1"
